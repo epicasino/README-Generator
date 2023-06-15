@@ -85,7 +85,7 @@ ${description}
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
+- [Contribute](#contribute)
 - [License](#license)
 
 ## Installation
@@ -96,7 +96,7 @@ ${install}
 
 ${usage}
 
-## How to Contribute
+## Contribute
 
 ${contribution}
 
@@ -112,6 +112,8 @@ ${tests}
 
 - [Github Link](${github})
 - [Email: ${email}](mailto:${email})
+- Feel free to contact me at any time with any of these links!
+
 `;
 }
 
