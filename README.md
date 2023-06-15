@@ -26,7 +26,7 @@ What are the steps required to install your project? Provide a step-by-step desc
 ## Usage
 
 **For more information on application usage, refer to this video below.**
-https://github.com/epicasino/README-Generator/assets/99784684/566b6620-fc0a-4da2-972e-6abaf52da57a
+![Usage Video](https://github.com/epicasino/README-Generator/assets/99784684/566b6620-fc0a-4da2-972e-6abaf52da57a)
 
 
 
